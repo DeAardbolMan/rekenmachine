@@ -1,0 +1,33 @@
+body {
+	background: #39A9DB;
+	text-align: center;
+	color: #fff;
+}
+
+form {
+	width: 1200px;
+	margin: 0px auto;
+}
+button {
+	padding: 15px;
+	width: 350px;
+	margin: 20px;
+	font-size:30px;
+	background: #F39237;
+	color: #fff;
+	border: 2px #40BCD8 solid;
+}
+button:hover {
+	background: #f28926;
+	color: #fff;
+	border: 2px #1C77C3 solid;
+}
+.som {
+	margin-top: 50px;
+}
+input {
+	width: 100%;
+	padding: 20px;
+	background:  #e6e6e6;
+	border: 2px #40BCD8 solid;
+}
